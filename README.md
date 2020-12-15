@@ -1,6 +1,6 @@
 # Blue Book
 
-**NOTE: FIRESTORE DATABASE HAS EXPIRED**
+**UPDATE: FIRESTORE DATABASE HAS EXPIRED**
 
 ## Team Members
 - Kevin Diep
