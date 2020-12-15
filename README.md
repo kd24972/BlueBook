@@ -6,6 +6,10 @@
 - Kevin Diep
 - Zongying Mo
 
+## Description
+Blue Book is an iOS mobile application that allows users to store their 
+favorite choices from specific categories and share them with others. 
+
 ## Dependencies
 - XCode 11.5
 - Swift 4
@@ -18,7 +22,7 @@
 - pod “BSImagePicker”, “\~> 2.8”
 
 ## Special Instructions
-- Use an iPhone 11 Pro Max simulator, ​[vertical only].
+- Use an iPhone 11 Pro Max simulator, ​(vertical only).
 - You have to open the file BlueBook.xcworkspace (as opposed to the file
 BlueBook.xcodeprog).
 - Before running the app, run "pod install" inside the BlueBook folder where 
