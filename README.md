@@ -35,8 +35,11 @@ pictures.
 - May hit Firebase quota for the app and won’t load anything in this case.
 
 ### Test accounts:
-- Jane Doe, email: ​123456@utexas.edu password: 123456
-- John Doe, email: 654321​@utexas.edu password: 654321
+	
+		Jane Doe, email: ​123456@utexas.edu password: 123456
+
+		John Doe, email: 654321​@utexas.edu password: 654321
+
 
 | Feature | Description | Percentage |
 | ------- | ----------- | ---------- |
