@@ -1,5 +1,7 @@
 # Blue Book
 
+**FIRESTORE DATABASE HAS EXPIRED**
+
 ## Team Members
 - Kevin Diep
 - Zongying Mo
