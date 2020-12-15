@@ -36,9 +36,9 @@ pictures.
 
 ### Test accounts:
 	
-		Jane Doe, email: ​123456@utexas.edu password: 123456
+		1. Jane Doe, email: ​123456@utexas.edu password: 123456
 
-		John Doe, email: 654321​@utexas.edu password: 654321
+		2. John Doe, email: 654321​@utexas.edu password: 654321
 
 
 | Feature | Description | Percentage |
